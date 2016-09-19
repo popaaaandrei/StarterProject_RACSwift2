@@ -12,6 +12,7 @@ import ReactiveCocoa
 
 // master change A 
 // master change B
+// master change C
 
 //
 // This is how a SignalProducer is defined in a proper way
