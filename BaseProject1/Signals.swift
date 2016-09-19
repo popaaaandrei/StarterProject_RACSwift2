@@ -12,6 +12,7 @@ import ReactiveCocoa
 import Alamofire
 
 // master - change A
+// master - change B
 
 // MyNetworkError adopts the ErrorType protocol
 enum MyNetworkError: ErrorType {
