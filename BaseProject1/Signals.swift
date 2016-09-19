@@ -9,6 +9,7 @@
 
 import Foundation
 import ReactiveCocoa
+import RxSwift
 import Alamofire
 
 // master - change A
