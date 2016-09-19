@@ -11,6 +11,7 @@ import Alamofire
 import ReactiveCocoa
 
 // master change A 
+// master change B
 
 //
 // This is how a SignalProducer is defined in a proper way
